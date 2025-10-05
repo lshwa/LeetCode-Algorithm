@@ -33,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
