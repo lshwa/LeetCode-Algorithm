@@ -35,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
