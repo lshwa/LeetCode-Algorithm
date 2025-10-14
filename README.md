@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
