@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
