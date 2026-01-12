@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
+| [1251-average-selling-price](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1251-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
