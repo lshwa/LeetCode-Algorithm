@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0627-swap-salary) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1251-average-selling-price) |
