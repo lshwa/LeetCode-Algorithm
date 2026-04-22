@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
 | [2556-convert-the-temperature](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2556-convert-the-temperature) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
