@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
