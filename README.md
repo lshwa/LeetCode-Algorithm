@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
+| [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
