@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
 | [2556-convert-the-temperature](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2556-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
