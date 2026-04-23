@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1108-defanging-an-ip-address) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
