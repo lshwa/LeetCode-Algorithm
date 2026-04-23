@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
