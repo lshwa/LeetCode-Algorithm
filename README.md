@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1321-restaurant-growth) |
+| [1393-capital-gainloss](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1393-capital-gainloss) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1683-invalid-tweets) |
