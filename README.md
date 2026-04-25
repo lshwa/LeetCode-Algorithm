@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3379-score-of-a-string) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2396-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
