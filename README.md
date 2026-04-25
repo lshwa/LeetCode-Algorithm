@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1920-build-array-from-permutation) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
+| [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2396-strictly-palindromic-number) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
