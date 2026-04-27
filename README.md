@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3701-compute-alternating-sum) |
@@ -173,4 +174,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
