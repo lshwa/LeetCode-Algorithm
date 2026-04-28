@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3668-restore-finishing-order) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
