@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3701-compute-alternating-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
