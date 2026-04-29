@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3794-reverse-string-prefix) |
 ## Number Theory
 |  |
 | ------- |
