@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
 ## Database
 |  |
