@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1158-market-analysis-i) |
 | [1161-project-employees-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1174-sales-analysis-iii) |
+| [1193-monthly-transactions-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1321-restaurant-growth) |
