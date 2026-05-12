@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1920-build-array-from-permutation) |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
