@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2556-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
