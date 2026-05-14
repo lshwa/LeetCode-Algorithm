@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
