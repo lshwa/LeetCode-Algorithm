@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
