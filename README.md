@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -269,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
