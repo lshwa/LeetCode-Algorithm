@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1672-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
