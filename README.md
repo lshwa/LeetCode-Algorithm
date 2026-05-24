@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0066-plus-one) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1920-build-array-from-permutation](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2058-concatenation-of-array) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
