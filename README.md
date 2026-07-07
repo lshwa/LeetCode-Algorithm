@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2235-add-two-integers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/lshwa/LeetCode-Algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
