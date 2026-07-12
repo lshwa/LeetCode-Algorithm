@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3467-transform-array-by-parity) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
