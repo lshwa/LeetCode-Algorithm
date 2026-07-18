@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lshwa/LeetCode-Algorithm/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/lshwa/LeetCode-Algorithm/tree/master/3497-analyze-subscription-conversion) |
 ## Simulation
 |  |
 | ------- |
